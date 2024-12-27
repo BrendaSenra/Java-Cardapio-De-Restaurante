@@ -31,4 +31,8 @@ git clone https://github.com/seu-usuario/Java-Cardapio-De-Restaurante.git
 2. Escolha as opções desejadas e veja o total sendo atualizado à medida que você faz suas escolhas.
 3. O sistema também oferece a opção de sair a qualquer momento.
 
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para mais detalhes.
+
  
