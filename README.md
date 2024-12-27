@@ -17,7 +17,7 @@ Java 8 ou superior instalado em sua máquina.
 ### Passos para Executar
 #### Clone o repositório:
 
-git clone https://github.com/seu-usuario/Java-Cardapio-De-Restaurante.git
+git clone https://github.com/BrendaSenra/Java-Cardapio-De-Restaurante.git
 
 #### Compile e execute o código:
 
